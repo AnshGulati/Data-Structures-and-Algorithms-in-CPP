@@ -1,4 +1,4 @@
-// GFG - Intersection of Arrays with Distinct
+// GFG - Intersection of Arrays with Distinct Elements
 
 // https://www.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1
 
